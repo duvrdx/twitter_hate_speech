@@ -1,0 +1,19 @@
+Model,Sentence Transfomer,Accuracy,F1-Weighted
+bertabaporu,Logistic Regression,0.80,0.80
+bertabaporu,Categorical NB,0.61,0.46
+bertabaporu,KNN,0.76,0.76
+bertabaporu,Decision Tree,0.64,0.64
+bertabaporu,XGBClassifier,0.78,0.78
+bertabaporu,Random Forest,0.77,0.76
+distilbert,Logistic Regression,0.79,0.79
+distilbert,Categorical NB,0.61,0.46
+distilbert,KNN,0.75,0.74
+distilbert,Decision Tree,0.67,0.67
+distilbert,XGBClassifier,0.78,0.78
+distilbert,Random Forest,0.78,0.77
+bertimbau,Logistic Regression,0.80,0.80
+bertimbau,Categorical NB,0.61,0.53
+bertimbau,KNN,0.75,0.74
+bertimbau,Decision Tree,0.68,0.68
+bertimbau,XGBClassifier,0.78,0.78
+bertimbau,Random Forest,0.78,0.78

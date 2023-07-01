@@ -1,0 +1,4 @@
+Model,Accuracy,Loss,F1-Weighted
+bertabaporu,0.8290,0.3811,0.8267
+distilbert,0.8013,0.4458,0.8016
+bertimbau,0.8139,0.3942,0.8133

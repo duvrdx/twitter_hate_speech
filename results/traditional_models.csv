@@ -1,0 +1,19 @@
+Model,Vectorizer,Accuracy,F1-Weighted
+Count - binary true,Logistic Regression,0.78,0.78
+Count - binary true,Multinomial NB,0.76,0.75
+Count - binary true,KNN,0.59,0.59
+Count - binary true,Decision Tree,0.70,0.64
+Count - binary true,XGBClassifier,0.78,0.78
+Count - binary true,Random Forest,0.77,0.77
+Count,Logistic Regression,0.77,0.77
+Count,Multinomial NB,0.77,0.76
+Count,KNN,0.62,0.59
+Count,Decision Tree,0.71,0.71
+Count,XGBClassifier,0.78,0.78
+Count,Random Forest,0.78,0.77
+Tfidf,Logistic Regression,0.78,0.78
+Tfidf,Multinomial NB,0.70,0.65
+Tfidf,KNN,0.69,0.68
+Tfidf,Decision Tree,0.69,0.69
+Tfidf,XGBClassifier,0.77,0.77
+Tfidf,Random Forest,0.77,0.76
